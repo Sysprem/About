@@ -26,6 +26,6 @@ Stack Técnica:
 
 <b>Previsão de lançamento do MVP: 30/Jul/25</b>
 
-Landing Page provisória: <a href='sysprem.com'>sysprem.com</a>
+Landing Page provisória: <a href='http://sysprem.com'>sysprem.com</a>
 
 Contato: sysprem@sysprem.com
