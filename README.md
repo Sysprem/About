@@ -23,10 +23,12 @@ Stack Técnica:
 •	Infraestrutura: Docker, Nginx, KVM Hostinger
 •	CI/CD: GitHub Actions
 
-Ambientes:
-  Staging: <a href='http://staging.sysprem.com'>staging.sysprem.com</a>
+Ambientes:<br>
+  Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a><br>
+  Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO)<br>
+  Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO)<br>
 
-## Roadmap previsto:
+<h5>Roadmap previsto:<h5>
 <ul>
   <li>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</li>>
   <li>Out/25 - Módulo orçamentos de lajes</li>
