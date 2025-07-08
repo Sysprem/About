@@ -1,8 +1,8 @@
 <h2>Sysprem</h2>
 
-A Sysprem Tecnologia é uma startup com a visão de oferecer soluções inovadoras para as fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
+A BHD Tecnologia é uma startup com a visão de oferecer soluções inovadoras para as fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
 
-Nosso principal produto é o Sysprem, um ERP robusto disponibilizado no modelo Saas, com regras de negócios já validadas em fábricas e focado em gerar resultados diferenciados para nossos clientes.
+Nosso principal produto é o Sysprem, um ERP robusto disponibilizado no modelo Saas, com regras de negócios já validadas em fábricas de pré-moldadoss, e focado em gerar resultados diferenciados para nossos clientes.
 Dentre as principais funcionalidades do Sysprem estão:
 - Geração de orçamentos técnicos de lajes e aduelas pré-moldadas, com uso de IA para redução de esforço humano;
 - Dimensionamento e detalhamento de formas e armação de lajes e aduelas pré-moldadas, em formatos PDF e DXF;
@@ -15,18 +15,18 @@ Dentre as principais funcionalidades do Sysprem estão:
 - Além de um pacote completo de funcionalidades básicas de ERPs, como controle financeiro, vendas, compras, controle de estoque, emissão de NFs e Boletos, etc.
 
 <h4>Stack Técnica:</h4>
--	Linguagem: TypeScript
--	Backend: NestJS, TypeORM
--	Banco de Dados: PostgreSQL (multi tenant)
--	Frontend: Next.js (React)
--	Autenticação: Keycloak
--	Infraestrutura: Docker, Nginx, KVM Hostinger
--	CI/CD: GitHub Actions
+-	Linguagem: TypeScript;
+-	Backend: NestJS, TypeORM;
+-	Banco de Dados: PostgreSQL (multi tenant);
+-	Frontend: Next.js (React);
+-	Autenticação: Keycloak;
+-	Infraestrutura: Docker, Nginx, KVM Hostinger;
+-	CI/CD: GitHub Actions;
 
 <h4>Ambientes:</h4>
--	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>
--	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO)
--	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO)
+-	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>;
+-	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO);
+-	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO);
 
 <h4>Roadmap previsto:</h4>
 <ul>
