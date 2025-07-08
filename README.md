@@ -15,22 +15,22 @@ Dentre as principais funcionalidades do Sysprem estão:
 - Além de um pacote completo de funcionalidades básicas de ERPs, como controle financeiro, vendas, compras, controle de estoque, emissão de NFs e Boletos, etc.
 
 <h4>Stack Técnica:</h4>
-•	Linguagem: TypeScript
-•	Backend: NestJS, TypeORM
-•	Banco de Dados: PostgreSQL (multi tenant)
-•	Frontend: Next.js (React)
-•	Autenticação: Keycloak
-•	Infraestrutura: Docker, Nginx, KVM Hostinger
-•	CI/CD: GitHub Actions
+-	Linguagem: TypeScript
+-	Backend: NestJS, TypeORM
+-	Banco de Dados: PostgreSQL (multi tenant)
+-	Frontend: Next.js (React)
+-	Autenticação: Keycloak
+-	Infraestrutura: Docker, Nginx, KVM Hostinger
+-	CI/CD: GitHub Actions
 
 <h4>Ambientes:</h4>
-•	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a><br>
-•	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO)<br>
-•	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO)<br>
+-	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>
+-	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO)
+-	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO)
 
 <h4>Roadmap previsto:</h4>
 <ul>
-  <li>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</li>>
+  <li>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</li>
   <li>Out/25 - Módulo orçamentos de lajes</li>
   <li>Nov/25 - Módulo orçamentos de aduelas</li>
   <li>Dez/25 - Módulo dimensionamento e projeto de aduelas</li>
