@@ -26,22 +26,22 @@ Stack Técnica:
 Ambientes:
   Staging: <a href='http://staging.sysprem.com'>staging.sysprem.com</a>
 
-<h3>Roadmap previsto:<h3>
-<b>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</b>
-<b>Out/25 - Módulo orçamentos de lajes</b>
-<b>Nov/25 - Módulo orçamentos de aduelas</b>
-<b>Dez/25 - Módulo dimensionamento e projeto de aduelas</b>
-<b>Jan/26 - Módulo qualidade</b>
-<b>Fev/26 - Módulo produção</b>
-<b>Mar/26 - Módulo logística</b>
-<b>Abr/26 - Módulo manutenção</b>
-<b>Mai/26 - Módulo financeiro</b>
-<b>Jun/26 - Módulo emissão NF</b>
-<b>Jul/26 - Módulo emissão de boletos</b>
-<b>Ago/26 - Módulo controle de estoque</b>
-<b>Set/26 - Módulo compras</b>
-
-
+## Roadmap previsto:
+<ul>
+  <li>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</li>>
+  <li>Out/25 - Módulo orçamentos de lajes</li>
+  <li>Nov/25 - Módulo orçamentos de aduelas</li>
+  <li>Dez/25 - Módulo dimensionamento e projeto de aduelas</li>
+  <li>Jan/26 - Módulo qualidade</li>
+  <li>Fev/26 - Módulo produção</li>
+  <li>Mar/26 - Módulo logística</li>
+  <li>Abr/26 - Módulo manutenção</li>
+  <li>Mai/26 - Módulo financeiro</li>
+  <li>Jun/26 - Módulo emissão NF</li>
+  <li>Jul/26 - Módulo emissão de boletos</li>
+  <li>Ago/26 - Módulo controle de estoque</li>
+  <li>Set/26 - Módulo compras</li>
+</ul>
 
 
 Contato: sysprem@sysprem.com
