@@ -1,9 +1,11 @@
-<h2>Sysprem</h2>
+<h1>Sysprem</h1>
 
-A BHD Tecnologia é uma startup com a visão de oferecer soluções inovadoras para as fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
+Sobre:
+- Projeto mantido pela BHD Tecnologia, uma startup formada por sócios com larga experiência em negócios, marketing, gerenciamento e produto.
+- A visão do projeto é oferecer soluções inovadoras para as fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
+- O Sysprem é um ERP robusto comercializado no modelo SAAS, com regras de negócios validadas por anos em fábricas de pré-moldadoss, e focado em gerar resultados diferenciados para nossos clientes.
 
-Nosso principal produto é o Sysprem, um ERP robusto disponibilizado no modelo Saas, com regras de negócios já validadas em fábricas de pré-moldadoss, e focado em gerar resultados diferenciados para nossos clientes.
-Dentre as principais funcionalidades do Sysprem estão:
+Principais funcionalidades:
 - Geração de orçamentos técnicos de lajes e aduelas pré-moldadas, com uso de IA para redução de esforço humano;
 - Dimensionamento e detalhamento de formas e armação de lajes e aduelas pré-moldadas, em formatos PDF e DXF;
 - Geração de projetos de montagem de lajes e aduelas;
@@ -20,13 +22,13 @@ Stack Técnica:
 -	Banco de Dados: PostgreSQL (multi tenant);
 -	Frontend: Next.js (React);
 -	Autenticação: Keycloak;
--	Infraestrutura: Docker, Nginx, KVM Hostinger;
--	CI/CD: GitHub Actions;
+-	Infraestrutura: KVM Hostinger, Ubuntu, Nginx;
+-	CI/CD: Docker, GitHub Actions;
 
 Ambientes:
 -	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>;
--	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO);
--	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO);
+-	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (AINDA NÃO PUBLICADO);
+-	Production: <a href='https://sysprem.com'>sysprem.com</a> (AINDA NÃO PUBLICADO);
 
 Roadmap previsto:
 <ul>
