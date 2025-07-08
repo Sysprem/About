@@ -14,7 +14,7 @@ Dentre as principais funcionalidades do Sysprem estão:
 - Gerenciamento e controle logístico, com emissão de romaneios, cadastro de transportadores, controle de pagamento de fretes, controle de devolução de paletes;
 - Além de um pacote completo de funcionalidades básicas de ERPs, como controle financeiro, vendas, compras, controle de estoque, emissão de NFs e Boletos, etc.
 
-<h4>Stack Técnica:</h4>
+Stack Técnica:
 -	Linguagem: TypeScript;
 -	Backend: NestJS, TypeORM;
 -	Banco de Dados: PostgreSQL (multi tenant);
@@ -23,12 +23,12 @@ Dentre as principais funcionalidades do Sysprem estão:
 -	Infraestrutura: Docker, Nginx, KVM Hostinger;
 -	CI/CD: GitHub Actions;
 
-<h4>Ambientes:</h4>
+Ambientes:
 -	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>;
 -	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (PREVISTO);
 -	Production: <a href='https://sysprem.com'>sysprem.com</a> (PREVISTO);
 
-<h4>Roadmap previsto:</h4>
+Roadmap previsto:
 <ul>
   <li>Set/25 - Lançamento do MVP - Landing page + painel admin Sysprem + painel admin do tenant + módulo orçamentos simples</li>
   <li>Out/25 - Módulo orçamentos de lajes</li>
