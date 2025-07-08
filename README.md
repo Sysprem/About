@@ -1,5 +1,5 @@
 
-<img src="https://danyel.sysprem.com/images/logos/icone-sysprem.webp" width="300"/>
+<img src="https://danyel.sysprem.com/images/logos/icone-sysprem.webp" width="200"/>
 
 <h1>Sysprem</h1>
 
