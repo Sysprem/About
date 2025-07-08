@@ -1,5 +1,5 @@
 
-<img src="https://danyel.sysprem.com/images/front-pages/landing.webp"/>
+<a href='https://staging.sysprem.com' target='_blank'><img src="https://danyel.sysprem.com/images/front-pages/landing.webp"/></a>
 
 <h1>Sysprem</h1>
 
