@@ -1,6 +1,4 @@
-# Prefixos para commits
-
-Prefixo	Significado	Exemplo
+## Prefixos usados nos commits
 
 feat:	Nova funcionalidade
  ex.: adiciona campo de CPF no cadastro
@@ -8,21 +6,30 @@ feat:	Nova funcionalidade
 fix: Correção de bug
 ex.: corrige erro ao salvar pedido
 
-refactor:	Refatoração de código (sem mudar funcionalidade)	refactor: simplifica lógica de autenticação
+refactor:	Refatoração de código (sem mudar funcionalidade)
+ex.: simplifica lógica de autenticação
 
-chore:	Tarefas de manutenção (build, configs, deps...)	chore: atualiza dependências do projeto
+chore:	Tarefas de manutenção (build, configs, deps...)
+ex.: atualiza dependências do projeto
 
-docs:	Alterações na documentação	docs: atualiza README com novo fluxo
+docs:	Alterações na documentação
+ex.: atualiza README com novo fluxo
 
-test:	Adição ou ajuste de testes	test: adiciona teste para endpoint de login
+test:	Adição ou ajuste de testes
+ex.: adiciona teste para endpoint de login
 
-style:	Ajustes de formatação e estilo (sem alteração lógica)	style: remove espaços em branco
+style:	Ajustes de formatação e estilo (sem alteração lógica)
+ex.: remove espaços em branco
 
-perf:	Melhorias de performance	perf: otimiza consulta no banco
+perf:	Melhorias de performance
+ex.: otimiza consulta no banco
 
-build:	Alterações que afetam o sistema de build	build: altera configuração do Dockerfile
+build:	Alterações que afetam o sistema de build
+ex.: altera configuração do Dockerfile
 
-ci:	Mudanças em scripts ou configs de CI/CD	ci: ajusta workflow de deploy
+ci:	Mudanças em scripts ou configs de CI/CD
+ex.: ajusta workflow de deploy
 
-revert:	Reversão de commit anterior	revert: desfaz commit 1234abcd
+revert:	Reversão de commit anterior
+ex.: desfaz commit 1234abcd
 
