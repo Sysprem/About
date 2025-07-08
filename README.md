@@ -4,8 +4,8 @@
 <h1>Sysprem</h1>
 
 Sobre:
-- Projeto mantido pela BHD Tecnologia, uma startup formada por sócios com larga experiência em negócios, marketing, gerenciamento e produto.
-- A visão do projeto é oferecer soluções inovadoras para as fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
+- Projeto mantido pela BHD Tecnologia, uma startup criada por sócios com ampla experiência em tecnologia, marketing, gerenciamento de projetos e produtos, e investida por conglomerado de médio porte em outros segmentos.
+- A visão do projeto é oferecer soluções inovadoras para fábricas de pré moldados de concreto no Brasil e no mundo, através de softwares desenvolvidos especialmente para este setor.
 - O Sysprem é um ERP robusto comercializado no modelo SAAS, com regras de negócios validadas por anos em fábricas de pré-moldadoss, e focado em gerar resultados diferenciados para nossos clientes.
 
 Principais funcionalidades:
