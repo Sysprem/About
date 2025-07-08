@@ -26,7 +26,7 @@ Stack Técnica:
 -	CI/CD: Docker, GitHub Actions;
 
 Ambientes:
--	Staging: <a href='https://staging.sysprem.com'>staging.sysprem.com</a>;
+-	Staging: <a href='https://staging.sysprem.com' target='blank'>staging.sysprem.com</a>;
 -	Homolog: <a href='https://homolog.sysprem.com'>homolog.sysprem.com</a> (AINDA NÃO PUBLICADO);
 -	Production: <a href='https://sysprem.com'>sysprem.com</a> (AINDA NÃO PUBLICADO);
 
